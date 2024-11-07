@@ -240,7 +240,7 @@ export default function Journey() {
             creationText={"Worked on"}
             creation={"TynkerAI"}
             creationUrl={"https://tynkerai.com/"}
-            lineHeight={45}
+            lineHeight={80}
             skipPoint
           />
 
