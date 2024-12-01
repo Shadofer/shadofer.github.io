@@ -22,7 +22,7 @@ export default function Solutions() {
       title: "Fronvo",
       description: "Private social media, reimagined.",
       github: "https://github.com/Fronvo",
-      site: "https://fronvo.com",
+      site: "https://v3.fronvo.com",
     },
     {
       title: "Litestore",

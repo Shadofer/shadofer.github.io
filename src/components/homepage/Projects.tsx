@@ -2,7 +2,6 @@ import { Button } from "../ui/button";
 import Link from "next/link";
 import {
   Card,
-  CardContent,
   CardDescription,
   CardFooter,
   CardHeader,
@@ -19,6 +18,12 @@ interface Project {
 
 export default function Projects() {
   const projects: Project[] = [
+    {
+      title: "MoonrateAI",
+      description:
+        "Efficiently find the best hotels for you with the use of new-generation AI.",
+      site: "https://moonrate.ai",
+    },
     {
       title: "TynkerAI",
       description:

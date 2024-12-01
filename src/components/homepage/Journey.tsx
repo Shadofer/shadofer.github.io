@@ -174,7 +174,7 @@ export default function Journey() {
             creationText={"Finished the"}
             creation={"Fronvo"}
             creationSuffix={"social media"}
-            creationUrl={"https://fronvo.com"}
+            creationUrl={"https://v3.fronvo.com"}
             lineHeight={150}
             skipPoint
           />
@@ -198,7 +198,7 @@ export default function Journey() {
           <JourneyPoint
             creationText={"Finished"}
             creation={"Fronvo V2"}
-            creationUrl={"https://fronvo.com"}
+            creationUrl={"https://github.com/Fronvo/site/tree/v2"}
             lineHeight={50}
             skipPoint
           />
@@ -228,11 +228,19 @@ export default function Journey() {
           />
 
           <JourneyPoint
+            creationText={"Started"}
+            creation={"Fronvo V3"}
+            creationUrl={"https://v3.fronvo.com/"}
+            lineHeight={15}
+            skipPoint
+          />
+
+          <JourneyPoint
             creationText={"Joined"}
             creation={"Stoy Solutions"}
             creationUrl={"https://stoysolutions.com/"}
             creationSuffix={"as a Fullstack Developer"}
-            lineHeight={50}
+            lineHeight={25}
             skipPoint
           />
 
@@ -240,7 +248,15 @@ export default function Journey() {
             creationText={"Worked on"}
             creation={"TynkerAI"}
             creationUrl={"https://tynkerai.com/"}
-            lineHeight={80}
+            lineHeight={30}
+            skipPoint
+          />
+
+          <JourneyPoint
+            creationText={"Worked on"}
+            creation={"MoonrateAI"}
+            creationUrl={"https://moonrate.ai/"}
+            lineHeight={15}
             skipPoint
           />
 
