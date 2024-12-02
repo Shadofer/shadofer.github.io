@@ -56,7 +56,7 @@ export default function Projects() {
     {
       title: "XMAS Counter",
       description: "A simple but reactive christmas day counter.",
-      github: "https://github.com/StamTsag/xmas-counter",
+      github: "https://xmas.stamtsag.com/",
     },
   ];
 
