@@ -236,6 +236,14 @@ export default function Journey() {
           />
 
           <JourneyPoint
+            creationText={"Worked on"}
+            creation={"FindEnergy"}
+            creationUrl={"https://findenergy.com/"}
+            lineHeight={15}
+            skipPoint
+          />
+
+          <JourneyPoint
             creationText={"Joined"}
             creation={"Stoy Solutions"}
             creationUrl={"https://stoysolutions.com/"}
