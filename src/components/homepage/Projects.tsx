@@ -31,6 +31,12 @@ export default function Projects() {
       site: "https://tynkerai.com",
     },
     {
+      title: "FindEnergy",
+      description:
+        "Find and compare USA electricity & energy providers with ease.",
+      site: "https://findenergy.com",
+    },
+    {
       title: "TowerVerse",
       description: "A dungeon-themed online multiplayer game made in Godot.",
       github: "https://github.com/TowerVerse",
