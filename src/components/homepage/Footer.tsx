@@ -8,7 +8,7 @@ export default function Footer() {
 
       <div className="flex items-center justify-center pt-2 pb-2">
         <h1 className="mobile:text-sm font-medium text-sm">
-          © Stamatis Tsagkliotis 2024 | Much ♥ to{" "}
+          © Stamatis Tsagkliotis 2025 | Much ♥ to{" "}
           <Link href="https://ui.shadcn.com" target="_blank">
             shadcn
           </Link>
